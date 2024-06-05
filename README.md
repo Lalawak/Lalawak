@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lalawak
-- 👀 I’m interested in tecnology 
+- 👀 I’m interested in technology 
 - 🌱 I’m currently learning security of information
 - 💞️ I’m looking to collaborate on...         
 - 📫 How to reach me ...
